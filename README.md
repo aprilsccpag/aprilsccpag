@@ -35,4 +35,4 @@ Hi, I'm April, I'm a Library and Information Science student at Saint Columban C
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">April Pil</a> Email: aprilrose.pil@sccpag.edu.ph</p>
+<p align="center">✉️ Email: <a href="mailto:aprilrose.pil@sccpag.edu.ph" target="_blank">April Pil</a> Email: aprilrose.pil@sccpag.edu.ph</p>
